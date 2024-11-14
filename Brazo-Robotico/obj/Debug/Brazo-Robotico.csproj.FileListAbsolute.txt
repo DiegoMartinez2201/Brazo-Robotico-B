@@ -8,3 +8,14 @@ C:\Users\PC\source\repos\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo-Robotico.
 C:\Users\PC\source\repos\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo-Robotico.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo-Robotico.exe
 C:\Users\PC\source\repos\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo-Robotico.pdb
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo-Robotico.csproj.AssemblyReference.cache
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo-Robotico.csproj.SuggestedBindingRedirects.cache
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo-Robotico.exe
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo-Robotico.pdb
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\bin\Debug\Brazo-Robotico.exe.config
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\bin\Debug\Brazo-Robotico.exe
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\bin\Debug\Brazo-Robotico.pdb
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo_Robotico.Form1.resources
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo_Robotico.Properties.Resources.resources
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo-Robotico.csproj.GenerateResource.cache
+D:\UPN\CICLO 7\TALLER DE ROBOTICA\Proyecto Robotica\Brazo-Robotico\Brazo-Robotico\Brazo-Robotico\obj\Debug\Brazo-Robotico.csproj.CoreCompileInputs.cache
